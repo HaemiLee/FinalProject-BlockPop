@@ -1,0 +1,17 @@
+<sld_project_info>
+  <project>
+    <hash md5_digest_80b="00000000000000000000"/>
+  </project>
+  <file_info>
+    <file checksum="0x002C7ED4" device="EP2C20F484C7" path="VGA.sof" usercode="0xFFFFFFFF"/>
+    <file checksum="0x1DBF63F1" device="EPCS16" path="VGA.pof" usercode="0x00000000"/>
+  </file_info>
+  <sld_infos>
+    <sld_info hpath="pll:C" name="C">
+      <assignment_values>
+        <assignment_value text="QSYS_NAME pll HAS_SOPCINFO 1 GENERATION_ID 1376850995"/>
+      </assignment_values>
+      <parameters/>
+    </sld_info>
+  </sld_infos>
+</sld_project_info>

@@ -1,0 +1,6 @@
+
+State Machine - |VGA|SYNC:C1|state
+Name state.fire state.sFetch state.reset 
+state.reset 0 0 0 
+state.sFetch 0 1 1 
+state.fire 1 0 1 
